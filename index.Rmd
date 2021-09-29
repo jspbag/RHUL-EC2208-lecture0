@@ -65,7 +65,7 @@ output:
 
 1. Revisit OLS in the simple linear regression model
 
-2. Goodness of fit, OLS properties
+2. Goodness of fit, OLS sampling distribution
 
 3. Hypotheses testing (simple hypotheses)
 
